@@ -34,6 +34,7 @@ Vous êtes Data Scientist dans une start-up de l'AgriTech, nommée "Fruits!", qu
 ├── Moreno_Bastien_1_notebook_052024.ipynb                      # Notebook pour le preprocessing des données et la réduction de dimension PCA
 ├── Moreno_Bastien_3_presentation_052024.pdf                    # Support de présentation pour la soutenance
 ├── README.md                                                   # Ce fichier
+```
 
 ## 👨‍💻 Auteur
 Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.
