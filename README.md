@@ -17,7 +17,7 @@ La mission principale est de développer une architecture Big Data sur le cloud 
 
 ## 📦 Livrables
 
-1. **Un notebook sur le cloud** contenant les scripts en PySpark exécutables (le preprocessing et une étape de réduction de dimension de type PCA) à exécuter sur une machine virtuelle Linux afin de se rapprocher de l'environnement de l'EMR.
+1. **Un notebook sur le cloud** contenant les scripts en PySpark exécutables (le preprocessing et une étape de réduction de dimension de type ACP) à exécuter sur une machine virtuelle Linux afin de se rapprocher de l'environnement de l'EMR.
 2. **Les images du jeu de données initial** ainsi que la sortie de la réduction de dimension disponible dans un espace de stockage sur le cloud.
 3. **Un support de présentation** pour la soutenance, présentant :
    - Les différentes briques d'architecture choisies sur le cloud et leur rôle.
@@ -38,4 +38,5 @@ La mission principale est de développer une architecture Big Data sur le cloud 
 ```
 
 ## 👨‍💻 Auteur
-Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.
+Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.\
+Pour en savoir plus sur moi et mes projets, n'hésitez pas à me contacter via mon [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-moreno441237/).
