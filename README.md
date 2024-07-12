@@ -4,7 +4,8 @@ Bienvenue dans le repository du projet **Traitement des Données dans un Environ
 
 ## 📚 Contexte du Projet
 
-Vous êtes Data Scientist dans une start-up de l'AgriTech, nommée "Fruits!", qui propose des solutions innovantes pour la récolte des fruits. La mission principale est de développer une architecture Big Data sur le cloud pour traiter et analyser des images de fruits afin de sensibiliser le public à la biodiversité.
+Vous êtes Data Scientist dans une start-up de l'AgriTech, nommée "Fruits!", qui propose des solutions innovantes pour la récolte des fruits. Dans un premier temps, l'entreprise souhaite se faire connaître et constituer une base de donnée de fruits grâce à une application grand public qui permettra aux utilisateurs de prendre en photo un fruit et d'obtenir des informations sur ce fruit.\
+La mission principale est de développer une architecture Big Data sur le cloud pour traiter et analyser des images de fruits afin de sensibiliser le public à la biodiversité.
 
 ## 🎯 Objectifs du Projet
 
